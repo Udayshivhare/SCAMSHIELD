@@ -1,0 +1,120 @@
+[
+    {
+        "timestamp": "2026-08-20T13:44:07",
+        "input_type": "MULTI-SOURCE",
+        "risk_score": 40,
+        "risk_level": "SUSPICIOUS",
+        "scam_type": "No Strong Scam Indicator",
+        "indicators": [
+            "Suspicious keyword: verify",
+            "Suspicious keyword: kyc",
+            "Suspicious keyword: urgent",
+            "Suspicious keyword: immediately"
+        ],
+        "recommended_actions": [
+            "Verify KYC requests through the organization's official website."
+        ]
+    },
+    {
+        "timestamp": "2026-08-20T15:00:54",
+        "input_type": "MULTI-SOURCE",
+        "risk_score": 40,
+        "risk_level": "SUSPICIOUS",
+        "scam_type": "No Strong Scam Indicator",
+        "indicators": [
+            "Suspicious keyword: verify",
+            "Suspicious keyword: kyc",
+            "Suspicious keyword: urgent",
+            "Suspicious keyword: immediately"
+        ],
+        "recommended_actions": [
+            "Verify KYC requests through the organization's official website."
+        ]
+    },
+    {
+        "timestamp": "2026-08-20T15:01:31",
+        "input_type": "MULTI-SOURCE",
+        "risk_score": 60,
+        "risk_level": "HIGH",
+        "scam_type": "Potential Scam Pattern",
+        "indicators": [
+            "URL does not use HTTPS",
+            "Sensitive URL keyword: login",
+            "Sensitive URL keyword: verify",
+            "Sensitive URL keyword: kyc",
+            "Sensitive URL keyword: secure",
+            "Suspicious domain keyword: verify",
+            "Suspicious domain keyword: secure"
+        ],
+        "recommended_actions": [
+            "Do not enter passwords, OTPs, PINs, or card details.",
+            "Verify the website through the organization's official website.",
+            "Verify the information through the organization's official website or contact channel."
+        ]
+    },
+    {
+        "timestamp": "2026-08-20T15:05:17",
+        "input_type": "MULTI-SOURCE",
+        "risk_score": 40,
+        "risk_level": "SUSPICIOUS",
+        "scam_type": "No Strong Scam Indicator",
+        "indicators": [
+            "Suspicious keyword: verify",
+            "Suspicious keyword: kyc",
+            "Suspicious keyword: urgent",
+            "Suspicious keyword: immediately"
+        ],
+        "recommended_actions": [
+            "Verify KYC requests through the organization's official website."
+        ]
+    },
+    {
+        "timestamp": "2026-08-20T15:12:12",
+        "input_type": "MULTI-SOURCE",
+        "risk_score": 40,
+        "risk_level": "SUSPICIOUS",
+        "scam_type": "No Strong Scam Indicator",
+        "indicators": [
+            "Suspicious keyword: verify",
+            "Suspicious keyword: kyc",
+            "Suspicious keyword: urgent",
+            "Suspicious keyword: immediately"
+        ],
+        "recommended_actions": [
+            "Verify KYC requests through the organization's official website."
+        ]
+    },
+    {
+        "timestamp": "2026-08-20T15:12:36",
+        "input_type": "MULTI-SOURCE",
+        "risk_score": 30,
+        "risk_level": "SUSPICIOUS",
+        "scam_type": "OTP Mentioned - No Strong Scam Indicator",
+        "indicators": [
+            "OTP mentioned",
+            "Financial context: bank",
+            "Urgency indicator: immediately"
+        ],
+        "recommended_actions": [
+            "Verify the transaction directly through your bank's official channel.",
+            "Do not act under pressure or urgency."
+        ]
+    },
+    {
+        "timestamp": "2026-08-20T15:16:42",
+        "input_type": "MULTI-SOURCE",
+        "risk_score": 57,
+        "risk_level": "SUSPICIOUS",
+        "scam_type": "No Strong Scam Indicator",
+        "indicators": [
+            "Suspicious keyword: verify",
+            "Suspicious keyword: kyc",
+            "Suspicious keyword: urgent",
+            "Suspicious keyword: immediately"
+        ],
+        "recommended_actions": [
+            "Verify KYC requests through the organization's official website.",
+            "Treat this communication with caution and verify it through an official channel."
+        ]
+    }
+]
