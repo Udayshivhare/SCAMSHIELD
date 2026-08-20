@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+Pillow
+PyPDF2
+qrcode
+beautifulsoup4
+requests
